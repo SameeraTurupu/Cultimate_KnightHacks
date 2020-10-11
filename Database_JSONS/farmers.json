@@ -1,0 +1,28 @@
+{
+    "farmers": [
+        {
+            "id":1,
+            "name":"Steve Thomas",
+            "rating":"3.7",
+            "location": {
+                "lat":"",
+                "long":""
+            },
+            "rent":10.99,
+            "farmerWage":100,
+            "phone":"+1 404-999-0641"
+        },
+        {
+            "id":2,
+            "name":"Patrik james",
+            "rating":"4.5",
+            "location": {
+                "lat":"",
+                "long":""
+            },
+            "rent":12.99,
+            "farmerWage":100,
+            "phone":"+1 404-909-0327"
+        }
+    ]
+}

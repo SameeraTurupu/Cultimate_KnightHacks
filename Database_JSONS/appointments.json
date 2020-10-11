@@ -1,0 +1,11 @@
+{
+    "appointments": [
+        {
+            "id":1,
+            "customerId":"",
+            "farmerId":"",
+            "blockId":"",
+            "date":""
+        }
+    ]
+}

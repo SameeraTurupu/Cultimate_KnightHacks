@@ -1,0 +1,76 @@
+{
+	"seasons": [{
+			"fall": [{
+					"cropId": "Apple"
+				},
+				{
+					"cropId": "Broccoli"
+				},
+				{
+					"cropId": "Cabbage"
+				},
+				{
+					"cropId": "Carrot"
+				},
+				{
+					"cropId": "Eggplant"
+				}
+			]
+		},
+		{
+			"winter": [{
+					"cropId": "Celery"
+				},
+				{
+					"cropId": "Kale"
+				},
+				{
+					"cropId": "Turnip"
+				},
+				{
+					"cropId": "Parsnip"
+				},
+				{
+					"cropId": "Orange"
+				}
+			]
+		},
+		{
+			"spring": [{
+					"cropId": "Apricot"
+				},
+				{
+					"cropId": "Strawberry"
+				},
+				{
+					"cropId": "Spinach"
+				},
+				{
+					"cropId": "Kiwi"
+				},
+				{
+					"cropId": "Cherry"
+				}
+			]
+		},
+		{
+			"Summer": [{
+					"cropId": "Avocado"
+				},
+				{
+					"cropId": "Garlic"
+				},
+				{
+					"cropId": "Grapes"
+				},
+				{
+					"cropId": "Peach"
+				},
+				{
+					"cropId": "Tomato"
+				}
+			]
+		}
+
+	]
+}
